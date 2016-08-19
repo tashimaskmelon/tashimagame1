@@ -1,1 +1,9 @@
 三軒茶屋(仮）　JS
+fftfantt　　JS（オリジナルタイマー）
+トリアコンタン　　JS（オプションデフォルト値変更・マップタッチ仕様変更・ピクチャボタン化）
+Trb　　JS（アニメーションを飛ばす）
+akunou　　JS（画面固定）
+tomoaky (http://hikimoki.sakura.ne.jp/)　　JS（イベントリージョン）
+摘草　　JS（イベント接触判定）
+uchuzine　　JS（スマホ操作用プラグイン）
+a
