@@ -6,4 +6,3 @@ akunou　　JS（画面固定）
 tomoaky (http://hikimoki.sakura.ne.jp/)　　JS（イベントリージョン）
 摘草　　JS（イベント接触判定）
 uchuzine　　JS（スマホ操作用プラグイン）
-BGM musmus
