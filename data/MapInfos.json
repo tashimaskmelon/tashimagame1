@@ -27,5 +27,6 @@ null,
 {"id":25,"expanded":false,"name":"スライムセット","order":11,"parentId":18,"scrollX":0,"scrollY":0},
 {"id":26,"expanded":false,"name":"火の玉セット","order":13,"parentId":20,"scrollX":0,"scrollY":0},
 {"id":27,"expanded":false,"name":"そざいおきば１","order":27,"parentId":0,"scrollX":925.7142857142857,"scrollY":513.4285714285714},
-{"id":28,"expanded":false,"name":"ワールドマップ","order":28,"parentId":0,"scrollX":925.7142857142857,"scrollY":499.71428571428567}
+{"id":28,"expanded":false,"name":"ワールドマップ","order":28,"parentId":0,"scrollX":925.7142857142857,"scrollY":499.71428571428567},
+{"id":29,"expanded":false,"name":"試しにワンクッション","order":29,"parentId":0,"scrollX":832,"scrollY":640}
 ]
