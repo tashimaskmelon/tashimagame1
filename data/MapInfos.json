@@ -16,7 +16,7 @@ null,
 {"id":14,"expanded":false,"name":"テストステージ８","order":22,"parentId":7,"scrollX":911.9999999999999,"scrollY":1039.7142857142856},
 {"id":15,"expanded":false,"name":"テストステージ９","order":23,"parentId":7,"scrollX":911.9999999999999,"scrollY":513.4285714285714},
 {"id":16,"expanded":false,"name":"テストステージ１０","order":24,"parentId":7,"scrollX":925.7142857142857,"scrollY":513.4285714285714},
-{"id":17,"expanded":false,"name":"テストステージ１１GOAL","order":25,"parentId":7,"scrollX":925.7142857142857,"scrollY":513.4285714285714},
+{"id":17,"expanded":false,"name":"テストステージ１１GOAL","order":25,"parentId":7,"scrollX":648,"scrollY":359.4},
 {"id":18,"expanded":false,"name":"敵テスト　スライム","order":10,"parentId":1,"scrollX":719.3333333333334,"scrollY":399.3333333333333},
 {"id":19,"expanded":false,"name":"体験版導入","order":26,"parentId":0,"scrollX":925.7142857142857,"scrollY":513.4285714285714},
 {"id":20,"expanded":false,"name":"敵テスト　ひのたまん","order":12,"parentId":1,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
@@ -27,5 +27,6 @@ null,
 {"id":25,"expanded":false,"name":"スライムセット","order":11,"parentId":18,"scrollX":0,"scrollY":0},
 {"id":26,"expanded":false,"name":"火の玉セット","order":13,"parentId":20,"scrollX":0,"scrollY":0},
 {"id":27,"expanded":false,"name":"そざいおきば１","order":27,"parentId":0,"scrollX":925.7142857142857,"scrollY":513.4285714285714},
-{"id":28,"expanded":false,"name":"ワールドマップ","order":28,"parentId":0,"scrollX":926,"scrollY":624}
+{"id":28,"expanded":false,"name":"ワールドマップ","order":28,"parentId":0,"scrollX":832,"scrollY":624},
+{"id":29,"expanded":false,"name":"真　ワールドマップ","order":29,"parentId":0,"scrollX":832,"scrollY":624}
 ]
