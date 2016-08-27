@@ -21,5 +21,6 @@ null,
 {"id":19,"expanded":false,"name":"体験版導入","order":20,"parentId":0,"scrollX":720,"scrollY":399.3333333333333},
 {"id":20,"expanded":true,"name":"敵テスト　ひのたまん","order":7,"parentId":1,"scrollX":648,"scrollY":359.4},
 {"id":21,"expanded":true,"name":"ステージ２","order":21,"parentId":0,"scrollX":720,"scrollY":399.3333333333333},
-{"id":22,"expanded":false,"name":"ワールドマップ","order":22,"parentId":0,"scrollX":709.3333333333334,"scrollY":406}
+{"id":22,"expanded":false,"name":"ワールドマップ","order":22,"parentId":0,"scrollX":832,"scrollY":624},
+{"id":23,"expanded":false,"name":"真ワールドマップ","order":23,"parentId":0,"scrollX":709.3333333333334,"scrollY":427.3333333333333}
 ]
