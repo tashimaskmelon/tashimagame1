@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"テストマップ","order":1,"parentId":0,"scrollX":720,"scrollY":399.3333333333333},
+{"id":1,"expanded":false,"name":"テストマップ","order":1,"parentId":0,"scrollX":720,"scrollY":399.3333333333333},
 {"id":2,"expanded":false,"name":"テストマップ２","order":8,"parentId":0,"scrollX":709.3333333333334,"scrollY":456.6666666666667},
 {"id":3,"expanded":true,"name":"敵テスト　こうもり","order":2,"parentId":1,"scrollX":648,"scrollY":359.4},
 {"id":4,"expanded":true,"name":"敵テスト　ゴブリン","order":3,"parentId":1,"scrollX":719.3333333333334,"scrollY":399.3333333333333},
@@ -20,12 +20,11 @@ null,
 {"id":18,"expanded":true,"name":"敵テスト　スライム","order":6,"parentId":1,"scrollX":719.3333333333334,"scrollY":399.3333333333333},
 {"id":19,"expanded":false,"name":"体験版導入","order":20,"parentId":0,"scrollX":720,"scrollY":399.3333333333333},
 {"id":20,"expanded":true,"name":"敵テスト　ひのたまん","order":7,"parentId":1,"scrollX":648,"scrollY":359.4},
+{"id":21,"expanded":false,"name":"ステージ２","order":22,"parentId":0,"scrollX":832,"scrollY":640},
 null,
 null,
 null,
 null,
 null,
-null,
-{"id":27,"expanded":false,"name":"ワールドマップ","order":21,"parentId":0,"scrollX":709.3333333333334,"scrollY":427.3333333333333},
-{"id":28,"expanded":false,"name":"ステージ２","order":22,"parentId":0,"scrollX":720,"scrollY":399.3333333333333}
+{"id":27,"expanded":false,"name":"ワールドマップ","order":21,"parentId":0,"scrollX":709.3333333333334,"scrollY":427.3333333333333}
 ]
