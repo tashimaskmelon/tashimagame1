@@ -9,5 +9,6 @@ var $plugins =
 {"name":"ChangeMapTouchPolicy","status":true,"description":"マップタッチ仕様変更プラグイン","parameters":{"仕様レベル初期値":"1"}},
 {"name":"CustomizeConfigDefault","status":true,"description":"オプションデフォルト値設定プラグイン","parameters":{"常時ダッシュ":"ON","コマンド記憶":"OFF","BGM音量":"100","BGS音量":"100","ME音量":"100","SE音量":"100","常時ダッシュ消去":"OFF","コマンド記憶消去":"OFF","BGM音量消去":"OFF","BGS音量消去":"OFF","ME音量消去":"OFF","SE音量消去":"OFF"}},
 {"name":"PictureCallCommon","status":true,"description":"ピクチャのボタン化プラグイン","parameters":{"透明色を考慮":"OFF","ピクチャ番号の変数番号":"17","ポインタX座標の変数番号":"18","ポインタY座標の変数番号":"19","タッチ操作抑制":"ON"}},
-{"name":"OriginalTimer","status":true,"description":"オリジナルタイマー","parameters":{"TimerSave":"NO"}}
+{"name":"OriginalTimer","status":true,"description":"オリジナルタイマー","parameters":{"TimerSave":"NO"}},
+{"name":"Tileanimation_speed_riru","status":true,"description":"タイルA1のアニメーションの速度を地形タグごとに変更します","parameters":{}}
 ];
