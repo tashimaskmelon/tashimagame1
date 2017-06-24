@@ -1,4 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":929.1428571428571,"scrollY":522.8571428571428}
+{"id":1,"expanded":false,"name":"テストマップ","order":1,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":2,"expanded":false,"name":"ストーリー１","order":2,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":3,"expanded":false,"name":"ステージ選択","order":3,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":4,"expanded":false,"name":"ステージ１　ウン公園","order":4,"parentId":0,"scrollX":712,"scrollY":601.3333333333334}
 ]
